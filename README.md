@@ -1,4 +1,4 @@
-<div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin: 10px 0;">
+<div style="border: 4px solid #ddd; padding: 10px; border-radius: 10px; margin: 10px 0;">
     כשהחמשושים מנסים להיות מצחיקים.
 </div>
 <div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin: 10px 0;">
